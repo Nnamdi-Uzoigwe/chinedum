@@ -282,7 +282,8 @@ li {
 }
 .projects button {
     display: flex;
-    justify-self: center;
+    justify-self: center!important;
+    align-self: center;
 }
 .contact h3 {
     text-align: center;
